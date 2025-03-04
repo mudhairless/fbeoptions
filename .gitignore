@@ -1,0 +1,14 @@
+*.exe
+*.bin
+*.zip
+*.o
+*.a
+*.dll
+*.bak
+*.xml
+*.orig
+*.so
+*.la
+NULL
+*.log
+*.tst
